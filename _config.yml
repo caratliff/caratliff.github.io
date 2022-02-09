@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Rashaad Ratliff-Brown"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rashaad Ratliff-Brown"
+  name             : "Rashaad"
   avatar           : "profile.png"
   bio              : "Master in Interdisciplinary Data Science (MIDS) at Duke University"
   location         : "Raleigh, NC"

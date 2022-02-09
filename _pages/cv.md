@@ -14,6 +14,7 @@ Education
 * B.S. in Computer Science, University of North Carolina Charlotte, 2021
 * M.S. in Interdisciplinary Data Science, Duke University, 2023 (expected)
 
+{% comment %} 
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -35,7 +36,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-{% comment %} 
+
 Publications
 ======
   <ul>{% for post in site.publications %}

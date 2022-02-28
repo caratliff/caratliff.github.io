@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal portfolio webpage. I'm currently a first year graduate student at Duke University studying Interdisciplinary Data Science. This will be a platform to share more as I journey through my graduate program. 
+Welcome to my personal portfolio webpage. I'm currently a first year graduate student at Duke University studying Interdisciplinary Data Science. This will be my platform to share as I journey through my graduate program. 

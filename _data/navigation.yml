@@ -16,7 +16,7 @@ main:
     #url: /year-archive/
     
   - title: "CV"
-    url: files/updated_resume.pdf
+    paperurl: 'http://rmratliffbrown.github.io/files/updated_resume.pdf'
     
   #- title: "Guide"
     #url: /markdown/

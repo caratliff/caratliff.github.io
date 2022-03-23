@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal portfolio webpage. I'm currently a first year graduate student at Duke University pursuing a Master in Interdisciplinary Data Science (MIDS). I've created this platform for sharing knowledge and projects as I journey through my graduate program. 
+Welcome to my personal portfolio webpage. I'm currently a first year graduate student at Duke University pursuing a Masters in Interdisciplinary Data Science (MIDS). I've created this platform for sharing knowledge and projects as I journey through my graduate program. 

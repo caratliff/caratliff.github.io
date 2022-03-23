@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+(Download Resume Here)[http://rmratliffbrown.github.io/files/updated_resume.pdf]
+
 Education
 ======
 * B.S. in Computer Science, University of North Carolina Charlotte, 2021

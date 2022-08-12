@@ -1,9 +1,11 @@
 ---
-permalink: /
+layout: archive
 title: "Bucket List"
-excerpt: "Bucket List"
+permalink: /blist/
 author_profile: true
-redirect_from: 
-  - /blist/
-  - /blist.html
 ---
+
+- Item 1
+- Item 2
+- Item 3
+- Item 4

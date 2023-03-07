@@ -5,15 +5,19 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-## Statistical Modeling
+Statistical Modeling
+======
 ### Project 1, 
 
-## Cloud Data Engineering
+Cloud Data Engineering
+======
 ### Project 1, 
 
-## Machine Learning
+Machine Learning
+======
 ### Project 1, 
 
-## Mobile Application Development
+Mobile Application Development
+======
 ### Project 1, 
 

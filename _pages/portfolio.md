@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-Statistical Modeling
+# Statistical Modeling
 
-Cloud Data Engineering
+# Cloud Data Engineering
 
-Machine Learning
+# Machine Learning
 
-Mobile Application Development
+# Mobile Application Development
 
 {% comment %}
 

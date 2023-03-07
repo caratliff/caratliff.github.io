@@ -41,7 +41,4 @@ author_profile: true
 * Built a robust machine learning model to rank and predict the performance of NCAA Division I soccer teams (men and women).
 * Developed an interactive dashboard that serves as a tool for end-users to receive stats and narratives for well-informed sports decisions.
 
-aa|bb|cc
---|--|--
-ee|ff|gg 
 

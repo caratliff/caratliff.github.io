@@ -34,7 +34,7 @@ author_profile: true
 * Developed a mobile application that allows visitors of NC state parks to log visits and gain quick access to park information. 
 
 ## Duke Data Plus
-### Plus Explorations Project
+### Plus Explorations Project ([read more](https://bigdata.duke.edu/projects/plus-programs-data-exploration/))
 
 ## Capstone
 ### Arria Boost: Sports Analytics Data Storytelling

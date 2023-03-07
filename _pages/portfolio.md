@@ -37,7 +37,7 @@ author_profile: true
 ### Plus Explorations Project
 
 ## Capstone
-## Arria Boost: Sports Analytics Data Storytelling
+### Arria Boost: Sports Analytics Data Storytelling
 * Built a robust machine learning model to rank and predict the performance of NCAA Division I soccer teams (men and women).
 * Developed an interactive dashboard that serves as a tool for end-users to receive stats and narratives for well-informed sports decisions.
 

@@ -7,11 +7,11 @@ author_profile: true
 
 
 
-## Statistical Modeling:
+## Statistical Modeling
 ### StockX Sneaker Analysis ([github](https://github.com/rmratliffbrown/final-stats-sneakers/blob/main/final-report.Rmd)) 
 ### Job Training on Wages Analysis ([github](https://github.com/rmratliffbrown/job-training-wages))
 
-## Cloud Data Engineering:
+## Cloud Data Engineering
 ### Strava Microservice ([github](https://github.com/rmratliffbrown/data-engineering-strava-api)) 
 
 ### Strava CLI ([github](https://github.com/rmratliffbrown/strava-cli))
@@ -22,10 +22,10 @@ author_profile: true
 
 ### Product Recommendation Engine ([github](https://github.com/rmratliffbrown/Recommend))
 
-## Unifying Data Science/Causal Inference: 
+## Unifying Data Science/Causal Inference
 ### The Legacy of the Taliban on Female Education in Pakistan ([github](https://github.com/rmratliffbrown/uds-2022-ids-701-team-3) | [research paper](https://github.com/rmratliffbrown/uds-2022-ids-701-team-3/blob/main/40-docs/IDS-701_Final_Project_Report.pdf))
 
-## Machine Learning: 
+## Machine Learning
 ### Model-Based Approach to Music Genre Assignment ([github](https://github.com/rmratliffbrown/ml-genre-assignment) | [research paper](https://github.com/rmratliffbrown/ml-genre-assignment/blob/main/30_docs/final-report.pdf)) 
 * Utilized Spotify API to obtain audio data to develop a clustering machine learning model for improved genre assignment.
 

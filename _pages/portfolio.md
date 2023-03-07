@@ -5,8 +5,6 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
-
 # Statistical Modeling
 
 # Cloud Data Engineering
@@ -15,10 +13,3 @@ author_profile: true
 
 # Mobile Application Development
 
-{% comment %}
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% endcomment %}

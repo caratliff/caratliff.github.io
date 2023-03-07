@@ -10,4 +10,4 @@ redirect_from:
 
 Welcome to my personal portfolio webpage. I'm currently a first year graduate student at Duke University pursuing a Masters in Interdisciplinary Data Science (MIDS). I've created this platform for sharing knowledge and projects as I journey through my graduate program. 
 
-When I'm not in the classroom or studying, I spend time training for endurance races (ex. marathons, triathlons) and currently training for my first full ironman after learning how to swim competitively in January of 2022.
+When I'm not in the classroom or studying, I spend time training for endurance races (ex. cycling, marathon, triathlon). One of my goals for 2023 is to complete [Ironman Tulsa](https://www.ironman.com/im-tulsa) to become an IRONMAN.

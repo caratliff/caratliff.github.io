@@ -16,9 +16,9 @@ author_profile: true
 
 ### Strava CLI ([github](https://github.com/rmratliffbrown/strava-cli))
 
-### Machine Learning Marathon Finish Predictor ([github](https://github.com/rmratliffbrown/ml-marathon-finish-predictor))
+### Marathon Finish Predictor ([github](https://github.com/rmratliffbrown/ml-marathon-finish-predictor))
 
-### Machine Learning Stroke Predictor ([github](https://github.com/rmratliffbrown/ml-stroke-predictor))
+### Stroke Predictor ([github](https://github.com/rmratliffbrown/ml-stroke-predictor))
 
 ### Product Recommendation Engine ([github](https://github.com/rmratliffbrown/Recommend))
 

@@ -21,10 +21,10 @@ author_profile: true
 * Product Recommendation Engine ([github](https://github.com/rmratliffbrown/Recommend))
 
 ## Unifying Data Science/Causal Inference
-* The Legacy of the Taliban on Female Education in Pakistan ([github](https://github.com/rmratliffbrown/uds-2022-ids-701-team-3) | [research paper](https://github.com/rmratliffbrown/uds-2022-ids-701-team-3/blob/main/40-docs/IDS-701_Final_Project_Report.pdf))
+* The Legacy of the Taliban on Female Education in Pakistan ([github](https://github.com/rmratliffbrown/uds-2022-ids-701-team-3), [research paper](https://github.com/rmratliffbrown/uds-2022-ids-701-team-3/blob/main/40-docs/IDS-701_Final_Project_Report.pdf))
 
 ## Machine Learning
-* Model-Based Approach to Music Genre Assignment ([github](https://github.com/rmratliffbrown/ml-genre-assignment) | [research paper](https://github.com/rmratliffbrown/ml-genre-assignment/blob/main/30_docs/final-report.pdf)) 
+* Model-Based Approach to Music Genre Assignment ([github](https://github.com/rmratliffbrown/ml-genre-assignment), [research paper](https://github.com/rmratliffbrown/ml-genre-assignment/blob/main/30_docs/final-report.pdf)) 
   * Utilized Spotify API to obtain audio data to develop a clustering machine learning model for improved genre assignment.
 
 ## Mobile Application Development

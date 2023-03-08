@@ -8,7 +8,7 @@ author_profile: true
 
 
 ## Statistical Modeling
-  ### <t> StockX Sneaker Analysis ([github](https://github.com/rmratliffbrown/final-stats-sneakers/blob/main/final-report.Rmd)) </t>
+  ### StockX Sneaker Analysis ([github](https://github.com/rmratliffbrown/final-stats-sneakers/blob/main/final-report.Rmd))
   ### Job Training on Wages Analysis ([github](https://github.com/rmratliffbrown/job-training-wages))
 
 ## Cloud Data Engineering

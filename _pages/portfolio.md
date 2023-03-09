@@ -37,7 +37,7 @@ author_profile: true
   * Utilized Spotify API to obtain audio data to implement Unsupervised and Supervised Machine Learning models for improved genre assignment.
 
 ## Mobile Application Development
-* Mobile Passport ([github](https://github.com/rmratliffbrown/mobile-passport))
+* Mobile Passport ([presentation](https://github.com/rmratliffbrown/mobile-passport/blob/main/Mobile%20Passport.pdf))
   * Developed a mobile application that allows visitors of NC state parks to log visits and gain quick access to park information. 
 
 ## Duke Data Plus

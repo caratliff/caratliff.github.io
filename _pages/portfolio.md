@@ -42,6 +42,9 @@ author_profile: true
 
 ## Duke Data Plus
 * Plus Explorations Project ([read more](https://bigdata.duke.edu/projects/plus-programs-data-exploration/))
+  * Improved the Duke Data Plus admissions process by developing a data cleaning pipeline using a Qualtrics API
+  * Utilized Machine Learning (Hugging Face) algorithms to perform text analysis on user uploaded files
+  * Developed and implemented an all-in-one application for future Plus Program applicants (Data/Code/Climate/CS)
 
 ## Capstone
 * Arria Boost: Sports Analytics Data Storytelling

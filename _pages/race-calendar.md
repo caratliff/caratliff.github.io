@@ -41,13 +41,13 @@ redirect_from:
     <table>
 	    <tr>
     	    <td style="padding:10px">
-        	    <img src="img/image1.png" width="300"/>
+        	    <img src="images/left.JPG" width="300"/>
       	    </td>
             <td style="padding:10px">
-            	<img src="img/image2.png" width="300"/>
+            	<img src="image/middle.JPG" width="300"/>
             </td>
             <td style="padding:10px">
-            	<img src="img/image3.png" width="300"/>
+            	<img src="image/right.JPG" width="300"/>
             </td>
         </tr>
     </table>

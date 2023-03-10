@@ -17,6 +17,9 @@ main:
         
   - title: "Blog"
     url: /year-archive/
+    
+  - title: "Race Calendar"
+    url: /race-calendar/
 
     
   #- title: "Guide"

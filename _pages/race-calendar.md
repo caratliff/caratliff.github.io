@@ -6,7 +6,7 @@ redirect_from:
   - /race-calendar
 ---
 
-## 2022/2023 Race Calendar
+## 2022/2023
 
 - August 6: [Raleigh RunDown Downhill Mile](https://runsignup.com/Race/Results/116189#resultSetId-266098;perpage:5000) :running_man: - [5:37](https://runsignup.com/Race/Results/116189#resultSetId-331659;perpage:100)
 
@@ -35,6 +35,7 @@ redirect_from:
 <!--- Boone Gran Fondo: August 6, 2023-->
 
 <!--- Gran Fondo Maryland (National Championships): September 17, 2023-->
+---
 
 <div id="image-table">
     <table>

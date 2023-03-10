@@ -37,19 +37,21 @@ redirect_from:
 <!--- Gran Fondo Maryland (National Championships): September 17, 2023-->
 ---
 
+<!--
 <div id="image-table">
     <table>
 	    <tr>
     	    <td style="padding:10px">
-        	    <img src="images/left.JPG" height="300" width="300"/>
+        	    <img src="Images/left.JPG" height="300" width="300"/>
       	    </td>
             <td style="padding:10px">
-            	<img src="images/middle.JPG" height="300" width="300"/>
+            	<img src="Images/middle.JPG" height="300" width="300"/>
             </td>
             <td style="padding:10px">
-            	<img src="images/right.JPG" height="300" width="300"/>
+            	<img src="Images/right.JPG" height="300" width="300"/>
             </td>
         </tr>
     </table>
 </div>
+-->
 

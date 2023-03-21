@@ -18,7 +18,7 @@ redirect_from:
 
 - February 25: [Northeast Park Duathlon](https://runsignup.com/Race/NC/Gibsonville/NEParkDuathlon) :bicyclist: :running_man: - [1:01:57](https://www.trisignup.com/Race/Results/26521/IndividualResult/GfbP?resultSetId=367212#U51753724)
 
-- March 19: [Tobacco Road Half Marathon](https://tobaccoroadmarathon.com/details) 🏃‍♂️ - 
+- March 19: [Tobacco Road Half Marathon](https://tobaccoroadmarathon.com/details) 🏃‍♂️ - [1:58:32](https://www.racetecresults.com/myresults.aspx?CId=16247&RId=10060&EId=2&AId=44920)
 
 <!--- Gran Fondo Florida:  March 19, 2023-->
 

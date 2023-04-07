@@ -28,6 +28,8 @@ redirect_from:
 
 - April 23: [Tar Heel Double Down 14 Mile Challenge](https://capstoneraces.com/tar-heel-10-miler/results-and-photos/) :running_man: - 
 
+- April 29: [Jordan Lake Open Water 2.4 mile Challenge](https://fsseries.com/event/jordan-lake-open-water-challenge/evtresults/) 🏊‍♂️ - 
+
 - May 21: [Ironman Tulsa](https://www.ironman.com/im-tulsa?_ga=2.227648670.2089883783.1660093427-1319460127.1659293292) :swimming_man: :bicyclist: :running_man: - 
 
 <!--- Gran Fondo Asheville: July 16, 2023-->

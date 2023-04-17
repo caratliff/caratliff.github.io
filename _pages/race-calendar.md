@@ -24,7 +24,7 @@ redirect_from:
 
 <!--- Tour of Georgia Grand Fondo:  April 16, 2023-->
 
-- April 14-16: [Collegiate Club Nationals Olympic Distance](https://www.usatrichamps.com) :swimming_man: :bicyclist: :running_man: - 
+- April 14-16: [Collegiate Club Nationals Olympic Distance](https://www.usatrichamps.com) :swimming_man: :bicyclist: :running_man: - [2:53:02](https://track.rtrt.me/e/USAT-COLLEGIATE-CLUB-NATIONALS-23#/tracker/RXBK3GY5)
 
 - April 23: [Tar Heel Double Down 14 Mile Challenge](https://capstoneraces.com/tar-heel-10-miler/results-and-photos/) :running_man: - 
 

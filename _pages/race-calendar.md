@@ -30,7 +30,7 @@ redirect_from:
 
 - April 29: [Jordan Lake Open Water 1.2 mile Challenge](https://fsseries.com/event/jordan-lake-open-water-challenge/evtresults/) 🏊‍♂️ - 
 
-- May 21: [Ironman Tulsa 70.3](https://www.ironman.com/im-tulsa?_ga=2.227648670.2089883783.1660093427-1319460127.1659293292) :swimming_man: :bicyclist: :running_man: - 
+- May 21: [Ironman 70.3 Tulsa](https://www.ironman.com/im703-tulsa) :swimming_man: :bicyclist: :running_man: - 
 
 <!--- Gran Fondo Asheville: July 16, 2023-->
 

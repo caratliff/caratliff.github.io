@@ -26,7 +26,7 @@ redirect_from:
 
 - April 14-16: [Collegiate Club Nationals Olympic Distance](https://www.usatrichamps.com) :swimming_man: :bicyclist: :running_man: - [2:53:02](https://track.rtrt.me/e/USAT-COLLEGIATE-CLUB-NATIONALS-23#/tracker/RXBK3GY5)
 
-- April 23: [Tar Heel Double Down 14 Mile Challenge](https://capstoneraces.com/tar-heel-10-miler/results-and-photos/) :running_man: - 
+- April 23: [Tar Heel Double Down 14 Mile Challenge](https://capstoneraces.com/tar-heel-10-miler/results-and-photos/) :running_man: - [1:55:15](https://results.raceroster.com/v2/en-US/results/td3zrdxc4ewcgxf3/detail/gt4zp5u5e26rf5d4)
 
 - April 29: [Jordan Lake Open Water 1.2 mile Challenge](https://fsseries.com/event/jordan-lake-open-water-challenge/evtresults/) 🏊‍♂️ - 
 

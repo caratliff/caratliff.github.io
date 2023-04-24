@@ -34,9 +34,13 @@ redirect_from:
 
 - May 21: [Ironman Tulsa](https://www.ironman.com/im703-tulsa) :swimming_man: :bicyclist: :running_man: - [xx:xx](#)
 
-<!--- Gran Fondo Asheville: July 16, 2023-->
 
-<!--- Boone Gran Fondo: August 6, 2023-->
+<!-- White Lake Half paces: Swim(2:00/100 -> 38:37) | Bike (22 MPH -> 2:32:44) | Run (8:30/mile -> 1:51:21) = 05:03:02 -->
+<!--- IM goal paces: Swim (2:20/100 -> 1:30:07) | Bike (16.5 MPH -> 6:47:16) | Run (10:30/mile -> 4:35:06) = 13:52:29 --->
+
+<!--- Gran Fondo Asheville: July 16, 2023 -->
+
+<!--- Boone Gran Fondo: August 6, 2023 -->
 
 <!--- Gran Fondo Maryland (National Championships): September 17, 2023-->
 ---

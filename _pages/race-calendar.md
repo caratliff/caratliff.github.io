@@ -28,11 +28,11 @@ redirect_from:
 
 - April 23: [Tar Heel Double Down 14 Mile Challenge](https://capstoneraces.com/tar-heel-10-miler/results-and-photos/) :running_man: - [1:55:15](https://results.raceroster.com/v2/en-US/results/td3zrdxc4ewcgxf3/detail/gt4zp5u5e26rf5d4)
 
-- April 29: [Jordan Lake Open Water 1.2 mile Challenge](https://fsseries.com/event/jordan-lake-open-water-challenge/evtresults/) 🏊‍♂️ - [xxx](#)
+- April 29: [Jordan Lake Open Water 1.2 mile Challenge](https://fsseries.com/event/jordan-lake-open-water-challenge/evtresults/) 🏊‍♂️ - [xx:xx](#)
 
-- May 6: [White Lake Half](https://runsignup.com/Race/NC/WhiteLake/WhiteLakeHalf) :swimming_man: :bicyclist: :running_man: - [xxx](#)
+- May 6: [White Lake Half](https://runsignup.com/Race/NC/WhiteLake/WhiteLakeHalf) :swimming_man: :bicyclist: :running_man: - [xx:xx](#)
 
-- May 21: [Ironman 70.3 Tulsa](https://www.ironman.com/im703-tulsa) :swimming_man: :bicyclist: :running_man: - 
+- May 21: [Ironman Tulsa](https://www.ironman.com/im703-tulsa) :swimming_man: :bicyclist: :running_man: - [xx:xx](#)
 
 <!--- Gran Fondo Asheville: July 16, 2023-->
 

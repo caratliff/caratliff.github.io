@@ -30,12 +30,8 @@ redirect_from:
 
 - April 29: [Jordan Lake Open Water 1.2 mile Challenge](https://fsseries.com/event/jordan-lake-open-water-challenge/evtresults/) 🏊‍♂️ - [xx:xx](#)
 
-- May 6: [White Lake Half](https://runsignup.com/Race/NC/WhiteLake/WhiteLakeHalf) :swimming_man: :bicyclist: :running_man: - [xx:xx](#)
-
 - May 21: [Ironman Tulsa](https://www.ironman.com/im703-tulsa) :swimming_man: :bicyclist: :running_man: - [xx:xx](#)
 
-
-<!-- White Lake Half paces: Swim(2:00/100 -> 38:37) | Bike (22 MPH -> 2:32:44) | Run (8:30/mile -> 1:51:21) = 05:03:02 -->
 <!--- IM goal paces: Swim (2:20/100 -> 1:30:07) | Bike (16.5 MPH -> 6:47:16) | Run (10:30/mile -> 4:35:06) = 13:52:29 --->
 
 <!--- Gran Fondo Asheville: July 16, 2023 -->

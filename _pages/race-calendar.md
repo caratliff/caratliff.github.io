@@ -28,8 +28,6 @@ redirect_from:
 
 - April 23: [Tar Heel Double Down 14 Mile Challenge](https://capstoneraces.com/tar-heel-10-miler/results-and-photos/) :running_man: - [1:55:15](https://results.raceroster.com/v2/en-US/results/td3zrdxc4ewcgxf3/detail/gt4zp5u5e26rf5d4)
 
-- April 29: [Jordan Lake Open Water 1.2 mile Challenge](https://fsseries.com/event/jordan-lake-open-water-challenge/evtresults/) 🏊‍♂️ - [xx:xx](#)
-
 - May 21: [Ironman Tulsa](https://www.ironman.com/im703-tulsa) :swimming_man: :bicyclist: :running_man: - [xx:xx](#)
 
 <!--- IM goal paces: Swim (2:20/100 -> 1:30:07) | Bike (16.5 MPH -> 6:47:16) | Run (10:30/mile -> 4:35:06) = 13:52:29 --->

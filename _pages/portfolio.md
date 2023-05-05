@@ -53,7 +53,7 @@ author_profile: true
   * Developed and implemented an all-in-one application for future Plus Program applicants (Data/Code/Climate/CS)
 
 ## Algorithmic Trading - Financial Data and Modeling
-* Powerful Pairs Trading ([report]())
+* Powerful Pairs Trading ([report](https://github.com/rmratliffbrown/rmratliffbrown.github.io/blob/038f33bf9a0e87274aaf348aa47e6ad13e43c96c/files/Final%20Algo%20Paper.pdf))
   * Implemented K-Means Clustering algorithm to select trading pairs across sectors 
 
 

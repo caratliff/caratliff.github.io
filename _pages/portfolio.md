@@ -5,6 +5,12 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+
+## Capstone
+* Arria Boost: Sports Analytics Data Storytelling
+  * Built a robust machine learning model to rank and predict the performance of NCAA Division I soccer teams (men and women).
+  * Developed an interactive dashboard that serves as a tool for end-users to receive stats and narratives for well-informed sports decisions.
+
 ## Statistical Modeling
 * StockX Sneaker Analysis ([github](https://github.com/rmratliffbrown/stockx-sneaker-stats) // [report](https://github.com/rmratliffbrown/stockx-sneaker-stats/blob/main/final-report.pdf))
   * Utilized sneaker data from the 2019 StockX Data Contest to regress "hype value" (difference between retail value and resale value) on sneaker characteristics like color, brand, type, etc. to draw conclusions on which variables play a signficant role in determining the total resale value.
@@ -46,9 +52,9 @@ author_profile: true
   * Utilized Machine Learning (Hugging Face) algorithms to perform text analysis on user uploaded files
   * Developed and implemented an all-in-one application for future Plus Program applicants (Data/Code/Climate/CS)
 
-## Capstone
-* Arria Boost: Sports Analytics Data Storytelling
-  * Built a robust machine learning model to rank and predict the performance of NCAA Division I soccer teams (men and women).
-  * Developed an interactive dashboard that serves as a tool for end-users to receive stats and narratives for well-informed sports decisions.
+## Algorithmic Trading - Financial Data and Modeling
+* Powerful Pairs Trading ([report]())
+  * Implemented K-Means Clustering algorithm to select trading pairs across sectors 
+
 
 

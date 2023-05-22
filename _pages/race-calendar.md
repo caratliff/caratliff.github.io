@@ -28,23 +28,8 @@ redirect_from:
 
 - April 23: [Tar Heel Double Down 14 Mile Challenge](https://capstoneraces.com/tar-heel-10-miler/results-and-photos/) :running_man: - [1:55:15](https://results.raceroster.com/v2/en-US/results/td3zrdxc4ewcgxf3/detail/gt4zp5u5e26rf5d4)
 
-- May 21: [Ironman Tulsa](https://www.ironman.com/im703-tulsa) :swimming_man: :bicyclist: :running_man: - [xx:xx](#)
+- May 21: [Ironman Tulsa](https://www.ironman.com/im703-tulsa) :swimming_man: :bicyclist: :running_man: - [15:46:09](#)
 
-<!---  
-A IM goal paces: 
-Swim (2:20/100m -> 1:30:07) 
-Bike (16.5 MPH -> 6:47:16) 
-Run (10:30/mile -> 4:35:06) 
-= 13:52:29 
---->
-
-<!--- 
-B Goal IM goal paces: 
-Swim (2:12/100m -> 1:24:29)
-Bike (19.34 MPH -> 05:46:44)
-Run (10:30/mile -> 4:35:06) 
-= 11:46:19 
---->
 
 <!--- Gran Fondo Asheville: July 16, 2023 -->
 

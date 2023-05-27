@@ -28,7 +28,7 @@ redirect_from:
 
 - April 23: [Tar Heel Double Down 14 Mile Challenge](https://capstoneraces.com/tar-heel-10-miler/results-and-photos/) :running_man: - [1:55:15](https://results.raceroster.com/v2/en-US/results/td3zrdxc4ewcgxf3/detail/gt4zp5u5e26rf5d4)
 
-- May 21: [Ironman Tulsa](https://www.ironman.com/im703-tulsa) :swimming_man: :bicyclist: :running_man: - [15:46:09](#)
+- May 21: [Ironman Tulsa](https://www.ironman.com/im703-tulsa) :swimming_man: :bicyclist: :running_man: - [15:46:09](https://feathersprod.blob.core.windows.net/api-public/A0C726B6-F648-41E0-91D2-58E4D3FA9F46.pdf) - [Video](https://www.youtube.com/watch?v=ktQtcAhxv3E)
 
 
 <!--- Gran Fondo Asheville: July 16, 2023 -->

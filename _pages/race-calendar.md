@@ -6,13 +6,15 @@ redirect_from:
   - /race-calendar
 ---
 
-## 2022/2023
+## 2022
 
 - August 6: [Raleigh RunDown Downhill Mile](https://runsignup.com/Race/Results/116189#resultSetId-266098;perpage:5000) :running_man: - [5:37](https://runsignup.com/Race/Results/116189#resultSetId-331659;perpage:100)
 
 - October 21: [Ironman 70.3 NC](https://www.ironman.com/im703-north-carolina?_ga=2.262261516.1463858545.1659123373-1026453001.1656093606) :swimming_man: :bicyclist: :running_man: - [5:57:32](https://www.ironman.com/im703-north-carolina-results)
 
-- November 24: [Raleigh Turkey Trot](https://ridgewoodturkeytrot.itsyourrace.com/event.aspx?id=4847) 🏃‍♂️ - [36:50](https://ridgewoodturkeytrot.itsyourrace.com/Results.aspx?id=4847&y=&eid=&srch=Rashaad%20&g=&amin=&amax=)
+- November 24: [Raleigh Turkey Trot 8k](https://ridgewoodturkeytrot.itsyourrace.com/event.aspx?id=4847) 🏃‍♂️ - [36:50](https://ridgewoodturkeytrot.itsyourrace.com/Results.aspx?id=4847&y=&eid=&srch=Rashaad%20&g=&amin=&amax=)
+
+## 2023
 
 - February 4: [Krispy Kreme Challenge](https://krispykremechallenge.com) 🏃‍♂️ :doughnut: - [48:33](https://www.itsyourrace.com/results.aspx?id=89&y=&eid=&srch=rashaad&g=&amin=&amax=)
 
@@ -31,6 +33,18 @@ redirect_from:
 - May 21: [Ironman Tulsa](https://www.ironman.com/im703-tulsa) :swimming_man: :bicyclist: :running_man: - [15:46:09](https://feathersprod.blob.core.windows.net/api-public/A0C726B6-F648-41E0-91D2-58E4D3FA9F46.pdf) - [Video](https://www.youtube.com/watch?v=ktQtcAhxv3E)
 
 - June 3: [Running of the Bulls 8k](https://runsignup.com/Race/NC/Durham/RunningoftheBulls8K) :running_man: - [38:51.51](https://runsignup.com/Race/Results/124617/IndividualResult/bBTS?resultSetId=383819#U51753724)
+
+- October 21: [Ironman 70.3 NC](https://www.ironman.com/im703-north-carolina?_ga=2.262261516.1463858545.1659123373-1026453001.1656093606) :swimming_man: :bicyclist: :running_man: -
+
+- November 5: [City of Oaks](https://cityofoaksmarathon.com) :running_man: - 
+
+- November 23: [Skinny Turkey Half Marathon](https://fsseries.com/event/skinny/) :running_man: - 
+
+## 2024
+
+- March 9: [MST(Mountains to Sea) 50 mile](https://ultrarunning.com/calendar/event/mst-100) :running_man: -
+  
+- April 6: [Umstead 100 mile](https://ultrarunning.com/calendar/event/umstead) :running_man: -
 
 
 <!--- Gran Fondo Asheville: July 16, 2023 -->

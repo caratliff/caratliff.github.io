@@ -30,6 +30,8 @@ redirect_from:
 
 - May 21: [Ironman Tulsa](https://www.ironman.com/im703-tulsa) :swimming_man: :bicyclist: :running_man: - [15:46:09](https://feathersprod.blob.core.windows.net/api-public/A0C726B6-F648-41E0-91D2-58E4D3FA9F46.pdf) - [Video](https://www.youtube.com/watch?v=ktQtcAhxv3E)
 
+- June 3: [Running of the Bulls 8k](https://runsignup.com/Race/NC/Durham/RunningoftheBulls8K) :running_man: - [38:51.51](https://runsignup.com/Race/Results/124617/IndividualResult/bBTS?resultSetId=383819#U51753724)
+
 
 <!--- Gran Fondo Asheville: July 16, 2023 -->
 

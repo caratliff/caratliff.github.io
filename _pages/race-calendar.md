@@ -42,7 +42,7 @@ redirect_from:
 
 ## 2024
 
-- March 9: [MST(Mountains to Sea) 50 mile](https://ultrarunning.com/calendar/event/mst-100) :running_man: -
+- January 20: [Southern Tour Ultra 50 mile](https://www.southerntourultra.com) :running_man: - 
   
 - April 6: [Umstead 100 mile](https://ultrarunning.com/calendar/event/umstead) :running_man: -
 

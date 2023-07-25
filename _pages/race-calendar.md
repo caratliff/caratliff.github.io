@@ -36,6 +36,8 @@ redirect_from:
 
 - July 15: [Runologie Track Club 5K](https://event.racereach.com/runologie-track-club-5k/details#whenandwheresec) :running_man: - [20:39](https://www.racetecresults.com/myresults.aspx?CId=16247&RId=10070&EId=1&AId=51836)
 
+- August 5: [Raleigh RunDown Downhill Mile](https://raleighrundown.com) 🏃‍♂️ - [xx:xx](https://raleighrundown.com/results/)
+
 - August 26: [Summer's Done 13.1](https://runsignup.com/Race/NC/Cary/SummersDone131) :running_man: - [xx:xx](https://runsignup.com/Race/Results/145696#resultSetId-391781;perpage:100)
 
 - October 21: [Ironman 70.3 NC](https://www.ironman.com/im703-north-carolina?_ga=2.262261516.1463858545.1659123373-1026453001.1656093606) :swimming_man: :bicyclist: :running_man: -

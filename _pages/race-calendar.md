@@ -40,8 +40,6 @@ redirect_from:
 
 - August 26: [Summer's Done 13.1](https://runsignup.com/Race/NC/Cary/SummersDone131) :running_man: - [xx:xx](https://runsignup.com/Race/Results/145696#resultSetId-391781;perpage:100)
 
-- October 21: [Ironman 70.3 NC](https://www.ironman.com/im703-north-carolina?_ga=2.262261516.1463858545.1659123373-1026453001.1656093606) :swimming_man: :bicyclist: :running_man: -
-
 - November 5: [City of Oaks](https://cityofoaksmarathon.com) :running_man: - 
 
 - November 23: [Skinny Turkey Half Marathon](https://fsseries.com/event/skinny/) :running_man: - 

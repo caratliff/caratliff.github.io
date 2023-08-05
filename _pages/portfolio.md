@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Capstone
-* Arria Boost: Sports Analytics Data Storytelling ([report](files/boost_report.pdf))
+* Arria Boost: Sports Analytics Data Storytelling ([report](https://github.com/rmratliffbrown/rmratliffbrown.github.io/blob/06cf0045e0f8cf20318625bee3daecfe289750d0/files/boost_report.pdf))
   * Built a robust machine learning model to rank and predict the performance of NCAA Division I soccer teams (men and women).
   * Developed an interactive dashboard that serves as a tool for end-users to receive stats and narratives for well-informed sports decisions.
 

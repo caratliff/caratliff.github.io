@@ -40,7 +40,7 @@ redirect_from:
 
 - August 26: [Summer's Done 13.1](https://runsignup.com/Race/NC/Cary/SummersDone131) :running_man: - [xx:xx](https://runsignup.com/Race/Results/145696#resultSetId-391781;perpage:100)
 
-- November 5: [City of Oaks](https://cityofoaksmarathon.com) :running_man: -
+- November 5: [City of Oaks Marathon](https://cityofoaksmarathon.com) :running_man: -
 
 - November 11: [Richmond Marathon](https://www.richmondmarathon.org/races/marathon/) 🏃‍♂️ - 
 
@@ -51,7 +51,7 @@ redirect_from:
 ## 2024
 
 - January 20: [Southern Tour Ultra 50 mile](https://www.southerntourultra.com) :running_man: -
-- 
+  
 - March 9: [Mountain To Sea 100 mile](https://mountainstosea100.com) :running_man: - 
   
 <!-- April 6: [Umstead 100 mile](https://ultrarunning.com/calendar/event/umstead) :running_man: -->

@@ -40,15 +40,35 @@ redirect_from:
 
 - August 26: [Summer's Done 13.1](https://runsignup.com/Race/NC/Cary/SummersDone131) :running_man: - [xx:xx](https://runsignup.com/Race/Results/145696#resultSetId-391781;perpage:100)
 
-- November 5: [City of Oaks](https://cityofoaksmarathon.com) :running_man: - 
+- November 5: [City of Oaks](https://cityofoaksmarathon.com) :running_man: -
 
-- November 23: [Skinny Turkey Half Marathon](https://fsseries.com/event/skinny/) :running_man: - 
+- November 11: [Richmond Marathon](https://www.richmondmarathon.org/races/marathon/) 🏃‍♂️ - 
+
+- November 23: [Skinny Turkey Half Marathon](https://fsseries.com/event/skinny/) :running_man: -
+  
+- December 9: [Beast of The East 50 mile](#) 🏃‍♂️ - 
 
 ## 2024
 
-- January 20: [Southern Tour Ultra 50 mile](https://www.southerntourultra.com) :running_man: - 
+- January 20: [Southern Tour Ultra 50 mile](https://www.southerntourultra.com) :running_man: -
+- 
+- March 9: [Mountain To Sea 100 mile](https://mountainstosea100.com) :running_man: - 
   
-- April 6: [Umstead 100 mile](https://ultrarunning.com/calendar/event/umstead) :running_man: -
+<!-- April 6: [Umstead 100 mile](https://ultrarunning.com/calendar/event/umstead) :running_man: -->
+
+- June 8: [Ironman 70.3 Boulder](#) :swimming_man: :bicyclist: :running_man: -
+
+- July 16: [Gran Fondo Asheville](#) 🚴 - 
+
+- August 6: [Gran Fondo Boone](#) 🚴 -
+
+- September 17: [Gran Fondo Maryland](#) -
+
+- September 29: [Berlin Marathon](#) 🏃‍♂️ - 
+
+- October 13: [Chicago Marathon](#) 🏃‍♂️ - 
+
+- October 21: [Ironman 70.3 NC](#) :swimming_man: :bicyclist: :running_man: -
 
 
 <!--- Gran Fondo Asheville: July 16, 2023 -->

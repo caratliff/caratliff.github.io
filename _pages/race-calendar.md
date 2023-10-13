@@ -5,7 +5,6 @@ permalink: /race-calendar/
 redirect_from:
   - /race-calendar
 ---
-
 ## 2022
 
 - August 6: [Raleigh RunDown Downhill Mile](https://runsignup.com/Race/Results/116189#resultSetId-266098;perpage:5000) :running_man: - [5:37](https://runsignup.com/Race/Results/116189#resultSetId-331659;perpage:100)

@@ -69,13 +69,6 @@ redirect_from:
 
 - October 21: [Ironman 70.3 NC](#) :swimming_man: :bicyclist: :running_man: -
 
-
-<!--- Gran Fondo Asheville: July 16, 2023 -->
-
-<!--- Boone Gran Fondo: August 6, 2023 -->
-
-<!--- Gran Fondo Maryland (National Championships): September 17, 2023-->
-
 <!-- One 70.3, one 13.1, one 140.6, and one 26.2 every year -->
 ---
 

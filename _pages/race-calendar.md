@@ -39,11 +39,11 @@ redirect_from:
 
 - August 26: [Summer's Done 13.1](https://runsignup.com/Race/NC/Cary/SummersDone131) :running_man: - [xx:xx](https://runsignup.com/Race/Results/145696#resultSetId-391781;perpage:100)
 
+- October 29: [RDC Marathon]() 🏃‍♂️ - []()
+
 - November 5: [City of Oaks Marathon](https://cityofoaksmarathon.com) :running_man: -
 
 - November 11: [Richmond Marathon](https://www.richmondmarathon.org/races/marathon/) 🏃‍♂️ - 
-
-- November 23: [Skinny Turkey Half Marathon](https://fsseries.com/event/skinny/) :running_man: -
   
 - December 9: [Beast of The East 50 mile](#) 🏃‍♂️ - 
 

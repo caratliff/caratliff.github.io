@@ -39,13 +39,13 @@ redirect_from:
 
 - August 26: [Summer's Done 13.1](https://runsignup.com/Race/NC/Cary/SummersDone131) :running_man: - [xx:xx](https://runsignup.com/Race/Results/145696#resultSetId-391781;perpage:100)
 
-- October 29: [RDC Marathon]() 🏃‍♂️ - []()
+- October 29: [RDC Marathon]() 🏃‍♂️ - [4:07:32](https://www.marathonguide.com/results/browse.cfm?MIDD=9241231029&Gen=B&Begin=46&End=145&Max=119)
 
-- November 5: [City of Oaks Marathon](https://cityofoaksmarathon.com) :running_man: -
+- November 5: [City of Oaks Marathon](https://cityofoaksmarathon.com) :running_man: - [3:50:10](https://www.marathonguide.com/results/browse.cfm?MIDD=2740231105&Gen=B&Begin=159&End=258&Max=669)
 
-- November 11: [Richmond Marathon](https://www.richmondmarathon.org/races/marathon/) 🏃‍♂️ - 
+- November 11: [Richmond Marathon](https://www.richmondmarathon.org/races/marathon/) 🏃‍♂️ - [3:41:21](https://www.marathonguide.com/results/browse.cfm?MIDD=477231111&Gen=B&Begin=981&End=1080&Max=4083)
   
-- December 9: [Beast of The East 50 mile](#) 🏃‍♂️ - 
+- December 9: [Beast of The East 50 mile](#) 🏃‍♂️ - [xx:xx:xx](#)
 
 ## 2024
 

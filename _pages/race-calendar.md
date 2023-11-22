@@ -59,7 +59,7 @@ redirect_from:
 
 - August 6: [Gran Fondo Boone](#) 🚴 -
 
-- September 17: [Gran Fondo Maryland](#) -
+- September 17: [Gran Fondo Maryland](#) 🚴 -
 
 - September 29: [Berlin Marathon](#) 🏃‍♂️ - 
 

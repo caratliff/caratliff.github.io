@@ -37,7 +37,7 @@ redirect_from:
 
 - August 5: [Raleigh RunDown Downhill Mile](https://raleighrundown.com) 🏃‍♂️ - [5:05](https://runsignup.com/Race/Results/116189/IndividualResult/qNfY?resultSetId=394779#U77493007)
 
-- August 26: [Summer's Done 13.1](https://runsignup.com/Race/NC/Cary/SummersDone131) :running_man: - [xx:xx](https://runsignup.com/Race/Results/145696#resultSetId-391781;perpage:100)
+- August 26: [Summer's Done 13.1](https://runsignup.com/Race/NC/Cary/SummersDone131) :running_man: - [2:30:16](https://runsignup.com/Race/Results/145696#resultSetId-391781;perpage:100)
 
 - October 29: [RDC Marathon]() 🏃‍♂️ - [4:07:32](https://www.marathonguide.com/results/browse.cfm?MIDD=9241231029&Gen=B&Begin=46&End=145&Max=119)
 

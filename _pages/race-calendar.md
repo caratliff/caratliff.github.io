@@ -19,7 +19,7 @@ redirect_from:
 
 - February 25: [Northeast Park Duathlon](https://runsignup.com/Race/NC/Gibsonville/NEParkDuathlon) :bicyclist: :running_man: - [1:01:57](https://www.trisignup.com/Race/Results/26521/IndividualResult/GfbP?resultSetId=367212#U51753724)
 
-- March 19: [Tobacco Road Half Marathon](https://tobaccoroadmarathon.com/details) 🏃‍♂️ - [1:58:32](https://www.racetecresults.com/myresults.aspx?CId=16247&RId=10060&EId=2&AId=44920)
+- March 19: [Tobacco Road Half Marathon](https://tobaccoroadmarathon.com/details) 🏃‍♂️ - [1:58:32](https://www.racetecresults.com/myresults.aspx?CId=16247&RId=10060&EId=2&AId=44920)*
 
 <!--- Gran Fondo Florida:  March 19, 2023-->
 
@@ -37,13 +37,15 @@ redirect_from:
 
 - August 5: [Raleigh RunDown Downhill Mile](https://raleighrundown.com) 🏃‍♂️ - [5:05](https://runsignup.com/Race/Results/116189/IndividualResult/qNfY?resultSetId=394779#U77493007)
 
-- August 26: [Summer's Done 13.1](https://runsignup.com/Race/NC/Cary/SummersDone131) :running_man: - [2:30:16](https://runsignup.com/Race/Results/145696#resultSetId-391781;perpage:100)
+- August 26: [Summer's Done 13.1](https://runsignup.com/Race/NC/Cary/SummersDone131) :running_man: - [2:30:16](https://runsignup.com/Race/Results/145696#resultSetId-391781;perpage:100)*
 
-- October 29: [RDC Marathon]() 🏃‍♂️ - [4:07:32](https://www.marathonguide.com/results/browse.cfm?MIDD=9241231029&Gen=B&Begin=46&End=145&Max=119)
+- October 29: [RDC Marathon]() 🏃‍♂️ - [4:07:32](https://www.marathonguide.com/results/browse.cfm?MIDD=9241231029&Gen=B&Begin=46&End=145&Max=119)*
 
-- November 5: [City of Oaks Marathon](https://cityofoaksmarathon.com) :running_man: - [3:50:10](https://www.marathonguide.com/results/browse.cfm?MIDD=2740231105&Gen=B&Begin=159&End=258&Max=669)
+- November 5: [City of Oaks Marathon](https://cityofoaksmarathon.com) :running_man: - [3:50:10](https://www.marathonguide.com/results/browse.cfm?MIDD=2740231105&Gen=B&Begin=159&End=258&Max=669)*
 
-- November 11: [Richmond Marathon](https://www.richmondmarathon.org/races/marathon/) 🏃‍♂️ - [3:41:21](https://www.marathonguide.com/results/browse.cfm?MIDD=477231111&Gen=B&Begin=981&End=1080&Max=4083)
+- November 11: [Richmond Marathon](https://www.richmondmarathon.org/races/marathon/) 🏃‍♂️ - [3:41:21](https://www.marathonguide.com/results/browse.cfm?MIDD=477231111&Gen=B&Begin=981&End=1080&Max=4083)*
+
+- December 2: [Series 13.1 Durham Half Marathon]() 🏃‍♂️ - [1:44:29.3](https://results.raceroster.com/v2/en-US/results/reuwxtqm7g3cgbhh/detail/qeahs53xtwky75fa)*
   
 - December 9: [Beast of The East 50 mile](#) 🏃‍♂️ - [xx:xx:xx](#)
 
@@ -69,6 +71,7 @@ redirect_from:
 
 - October 21: [Ironman 70.3 NC](#) :swimming_man: :bicyclist: :running_man: -
 
+(*) indicates training runs/events 
 <!-- One 70.3, one 13.1, one 140.6, and one 26.2 every year -->
 ---
 

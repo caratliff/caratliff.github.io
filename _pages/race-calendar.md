@@ -47,7 +47,7 @@ redirect_from:
 
 - December 2: [Series 13.1 Durham Half Marathon](https://capstoneraces.com/race131/durham/details/) 🏃‍♂️ - [1:44:29.3](https://results.raceroster.com/v2/en-US/results/reuwxtqm7g3cgbhh/detail/qeahs53xtwky75fa)*
   
-- December 9: [Beast of The East 50 mile](#) 🏃‍♂️ - [xx:xx:xx](#)
+- December 9: [Beast of The East 50 mile](https://ultrasignup.com/results_event.aspx?did=100507) 🏃‍♂️ - [16:39:05](https://ultrasignup.com/results_participant.aspx?fname=Rashaad&lname=Ratliff-Brown&age=29)
 
 ## 2024
 

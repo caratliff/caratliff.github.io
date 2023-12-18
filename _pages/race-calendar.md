@@ -53,7 +53,7 @@ redirect_from:
 
 - January 20: [Charleston Half Marathon](#) :running_man: -
   
-- March 9: [Mountain To Sea 100 mile](https://mountainstosea100.com) :running_man: -
+<!-- March 9: [Mountain To Sea 100 mile](https://mountainstosea100.com) :running_man: -->
 
 - March 23: [Blackbeard's Revenge 100 mile](https://runsignup.com/Race/NC/Corolla/BlackbeardsRevenge100) 🏃‍♂️ - [xx:xx:xx](#)
 

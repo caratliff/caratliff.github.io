@@ -55,6 +55,8 @@ redirect_from:
   
 - March 9: [Mountain To Sea 100 mile](https://mountainstosea100.com) :running_man: -
 
+- March 23: [Black Beard's Revenge 100 mile](https://runsignup.com/Race/NC/Corolla/BlackbeardsRevenge100) 🏃‍♂️ - [xx:xx:xx](#)
+
 - May 4: [White Lake Half Ironman](https://www.whitelakehalf.com) :swimming_man: :bicyclist: :running_man: -
 
 - June 8: [Ironman 70.3 Boulder](#) :swimming_man: :bicyclist: :running_man: -

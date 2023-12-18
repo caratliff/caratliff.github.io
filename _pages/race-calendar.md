@@ -67,10 +67,6 @@ redirect_from:
 
 - September 17: [Gran Fondo Maryland](#) 🚴 -
 
-- September 29: [Berlin Marathon](#) 🏃‍♂️ - 
-
-- October 13: [Chicago Marathon](#) 🏃‍♂️ - 
-
 - October 21: [Ironman 70.3 NC](#) :swimming_man: :bicyclist: :running_man: -
 
 (*) indicates training runs/events 

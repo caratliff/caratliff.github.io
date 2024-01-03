@@ -49,11 +49,7 @@ redirect_from:
   
 - December 9: [Beast of The East 50 mile](https://ultrasignup.com/results_event.aspx?did=100507) 🏃‍♂️ - [16:39:05](https://ultrasignup.com/results_participant.aspx?fname=Rashaad&lname=Ratliff-Brown&age=29)
 
-## 2024
-
-- January 20: [Charleston Half Marathon](#) :running_man: -
-  
-<!-- March 9: [Mountain To Sea 100 mile](https://mountainstosea100.com) :running_man: -->
+## 2024  
 
 - March 23: [Blackbeard's Revenge 100 mile](https://runsignup.com/Race/NC/Corolla/BlackbeardsRevenge100) 🏃‍♂️ - [xx:xx:xx](#)
 

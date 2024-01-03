@@ -59,8 +59,6 @@ redirect_from:
 
 - May 4: [White Lake Half Ironman](https://www.whitelakehalf.com) :swimming_man: :bicyclist: :running_man: -
 
-- June 8: [Ironman 70.3 Boulder](#) :swimming_man: :bicyclist: :running_man: -
-
 - July 16: [Gran Fondo Asheville](#) 🚴 - 
 
 - August 6: [Gran Fondo Boone](#) 🚴 -

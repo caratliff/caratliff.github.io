@@ -61,6 +61,8 @@ redirect_from:
 
 - September 17: [Gran Fondo Maryland](#) 🚴 -
 
+- October 13: [Chicago Marathon](https://www.chicagomarathon.com) 🏃‍♂️ - [xx:xx:xx](https://www.chicagomarathon.com/runners/race-results/)
+
 - October 21: [Ironman 70.3 NC](#) :swimming_man: :bicyclist: :running_man: -
 
 (*) indicates training runs/events 

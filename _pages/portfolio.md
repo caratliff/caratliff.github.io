@@ -48,7 +48,11 @@ author_profile: true
 
 ## Mobile Application Development
 * Mobile Passport ([presentation](https://github.com/rmratliffbrown/mobile-passport/blob/main/Mobile%20Passport.pdf))
-  * Developed a mobile application that allows visitors of NC state parks to log visits and gain quick access to park information. 
+  * Developed a mobile application that allows visitors of NC state parks to log visits and gain quick access to park information.
+
+* Duke Roster
+  * Developed a mobile application that presents information about students within a course taken at Duke University.
+
 
 ## Duke Data Plus
 * Plus Explorations Project ([read more](https://bigdata.duke.edu/projects/plus-programs-data-exploration/))

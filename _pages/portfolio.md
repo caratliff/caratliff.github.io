@@ -8,8 +8,12 @@ author_profile: true
 
 ## Capstone
 * Arria Boost: Sports Analytics Data Storytelling ([report](https://github.com/rmratliffbrown/rmratliffbrown.github.io/blob/06cf0045e0f8cf20318625bee3daecfe289750d0/files/boost_report.pdf))
-  * Built a robust machine learning model to rank and predict the performance of NCAA Division I soccer teams (men and women).
-  * Developed an interactive dashboard that serves as a tool for end-users to receive stats and narratives for well-informed sports decisions.
+  * Engineered a probabilistic machine learning model for NCAA Division I soccer team rankings, achieving predictive accuracy for match outcomes above the professional soccer baseline by 5%.
+  * Enhanced model performance over sequential seasons, validating the model's capability to adapt and improve through continuous learning.
+  * Designed a dynamic, user-interactive dashboard providing real-time, in-game feature-based analytics, enabling users to make informed decisions with a holistic view of team performance.
+  * Successfully incorporated direct modeling of match draws and tournament projections, demonstrating a strong correlation with expert rankings and achieving an 83.3% accuracy rate in men's team field predictions.
+  * Constructed a unique adjusted margin of victory metric, contributing to a system that outperforms the FIFA ranking system in predictive accuracy and score predictions.
+  * Feature Engineering, Statistical Machine Learning Modeling, Data Visualization and Pipeline Automation. 
 
 ## Statistical Modeling
 * StockX Sneaker Analysis ([github](https://github.com/rmratliffbrown/stockx-sneaker-stats) // [report](https://github.com/rmratliffbrown/stockx-sneaker-stats/blob/main/final-report.pdf))
@@ -48,9 +52,12 @@ author_profile: true
 
 ## Duke Data Plus
 * Plus Explorations Project ([read more](https://bigdata.duke.edu/projects/plus-programs-data-exploration/))
-  * Improved the Duke Data Plus admissions process by developing a data cleaning pipeline using a Qualtrics API
-  * Utilized Machine Learning (Hugging Face) algorithms to perform text analysis on user uploaded files
-  * Developed and implemented an all-in-one application for future Plus Program applicants (Data/Code/Climate/CS)
+  * Collaborated with a team to consolidate historical data of Plus Programs, enhancing data-driven decision-making processes.
+  * Analyzed longitudinal data spanning 8 years from multiple Plus Programs, including Data+, Code+, and CS+, to derive actionable insights on student engagement and program efficacy.
+  * Spearheaded the development of a unified data structure, optimizing data storage and retrieval for robust reporting capabilities.
+  * Designed and implemented a comprehensive dashboard to visualize participant data, facilitating the evaluation of program impact and strategic planning.
+  * Enhanced text analysis capabilities by deploying advanced machine learning algorithms from the Hugging Face library, achieving nuanced insights from user-uploaded content.
+  * Proposed data-informed recommendations to refine program offerings, which served as a basis for initiating targeted alumni outreach programs and improving student retention strategies.
 
 ## Algorithmic Trading - Financial Data and Modeling
 * Powerful Pairs Trading ([report](https://github.com/rmratliffbrown/rmratliffbrown.github.io/blob/038f33bf9a0e87274aaf348aa47e6ad13e43c96c/files/Final%20Algo%20Paper.pdf))

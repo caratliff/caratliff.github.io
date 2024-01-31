@@ -12,12 +12,16 @@ redirect_from:
 - September 11: [North Hills 5K](https://runnc.com/event/north-hills-5k/details/) 🏃 - [21:58](https://filez.racereach.com/files/results/155723/result_5k_results_2021.txt?kick=1706731562)
   
 - October 17: [Bull City Race Fest Half Marathon](https://capstoneraces.com/bull-city-race-fest/) 🏃 - [1:45:31](https://results.raceroster.com/v2/en-US/results/3gbn4p9pc3xc6pa3/results?search=Rashaad&page=1)
+
+- November 13: [Novant Health Charlotte Half Marathon](https://thecharlottemarathon.com) 🏃 - [1:50:20](https://www.athlinks.com/event/20296/results/Event/1035993/Course/2307240/Bib/3615)
   
 - November 28: [Skinny Turkey Half Marathon](https://fsseries.com/event/skinny/) 🏃 - [1:53:42](https://www.racetecresults.com/Search.aspx?CId=16247&RId=210&S=rashaad)
   
 - December 4: [Race 13.1 Durham](https://capstoneraces.com/race131/durham/) 🏃 - [1:55:59](https://results.raceroster.com/v2/en-US/results/dgz65k6ssxz2ssw6/results?search=Rashaad&page=1)
 
 ## 2022
+
+- February 24: [Northeast Park Duathlon](https://www.trisignup.com/Race/NC/Gibsonville/NEParkDuathlon) 🏃 🚴 - [1:02:35](https://www.trisignup.com/Race/Results/26521/IndividualResult/Mzbb?resultSetId=303285#U51753724)
 
 - March 8: [Clash Endurance Miami 5K](https://clashendurance.com/pages/miami) 🏃 - [31:07](https://track.rtrt.me/e/CLASH-MIAMI#/tracker/RHPVK64M)
 

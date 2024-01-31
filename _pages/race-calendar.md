@@ -5,7 +5,25 @@ permalink: /race-calendar/
 redirect_from:
   - /race-calendar
 ---
+
+## 2021 
+- August 14: [Bull Moon 5K](https://bullmoon.itsyourrace.com/event.aspx?id=6050) 🏃 - [24:08](https://www.itsyourrace.com/Results.aspx?id=6050&y=2021&eid=105400&srch=Rashaad&g=A&amin=0&amax=199)
+  
+- September 11: [North Hills 5K](https://runnc.com/event/north-hills-5k/details/) 🏃 - [21:58](https://filez.racereach.com/files/results/155723/result_5k_results_2021.txt?kick=1706731562)
+  
+- October 17: [Bull City Race Fest Half Marathon](https://capstoneraces.com/bull-city-race-fest/) 🏃 - [1:45:31](https://results.raceroster.com/v2/en-US/results/3gbn4p9pc3xc6pa3/results?search=Rashaad&page=1)
+  
+- November 28: [Skinny Turkey Half Marathon](https://fsseries.com/event/skinny/) 🏃 - [1:53:42](https://www.racetecresults.com/Search.aspx?CId=16247&RId=210&S=rashaad)
+  
+- December 4: [Race 13.1 Durham](https://capstoneraces.com/race131/durham/) 🏃 - [1:55:59](https://results.raceroster.com/v2/en-US/results/dgz65k6ssxz2ssw6/results?search=Rashaad&page=1)
+
 ## 2022
+
+- March 8: [Clash Endurance Miami 5K](https://clashendurance.com/pages/miami) 🏃 - [31:07](https://track.rtrt.me/e/CLASH-MIAMI#/tracker/RHPVK64M)
+
+- March 9: [Clash Endurance Miami Sprint Duathlon](https://clashendurance.com/pages/miami) 🏃 🚴 - [1:09:43](https://track.rtrt.me/e/CLASH-MIAMI#/tracker/RHPVK64M,RJTP52WE)
+
+- March 10: [Clash Endurance Miami Middle Distance Duathlon](https://clashendurance.com/pages/miami) 🏃 🚴 - [6:21:58](https://track.rtrt.me/e/CLASH-MIAMI#/tracker/RHPVK64M,RJTP52WE,RAR286DM)
 
 - August 6: [Raleigh RunDown Downhill Mile](https://runsignup.com/Race/Results/116189#resultSetId-266098;perpage:5000) :running_man: - [5:37](https://runsignup.com/Race/Results/116189#resultSetId-331659;perpage:100)
 

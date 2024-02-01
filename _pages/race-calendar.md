@@ -13,6 +13,8 @@ redirect_from:
   
 - October 17: [Bull City Race Fest Half Marathon](https://capstoneraces.com/bull-city-race-fest/) 🏃 - [1:45:31](https://results.raceroster.com/v2/en-US/results/3gbn4p9pc3xc6pa3/results?search=Rashaad&page=1)
 
+- November 7: [City of Oaks Old Reliable 10K](https://cityofoaksmarathon.com) 🏃 - [50:41](https://results.raceroster.com/v2/en-US/results/32pguc65w6a4x6sz/detail/53xnqagdhkse7c2a)
+
 - November 13: [Novant Health Charlotte Half Marathon](https://thecharlottemarathon.com) 🏃 - [1:50:20](https://www.athlinks.com/event/20296/results/Event/1035993/Course/2307240/Bib/3615)
   
 - November 28: [Skinny Turkey Half Marathon](https://fsseries.com/event/skinny/) 🏃 - [1:53:42](https://www.racetecresults.com/Search.aspx?CId=16247&RId=210&S=rashaad)

@@ -63,7 +63,9 @@ redirect_from:
 
 - August 26: [Summer's Done 13.1](https://runsignup.com/Race/NC/Cary/SummersDone131) :running_man: - [2:30:16](https://runsignup.com/Race/Results/145696#resultSetId-391781;perpage:100)*
 
-- October 29: [RDC Marathon]() 🏃‍♂️ - [4:07:32](https://www.marathonguide.com/results/browse.cfm?MIDD=9241231029&Gen=B&Begin=46&End=145&Max=119)*
+- October 15: [Bull City Race Fest Half Marathon](https://capstoneraces.com/bull-city-race-fest/) 🏃 - [1:53:02](https://results.raceroster.com/v2/en-US/results/h3g5a3tfrdp5smt2/detail/5scpcp3ccm2r9nqm)
+
+- October 29: [RDC Marathon](https://fsseries.com/event/runrdc/) 🏃‍♂️ - [4:07:32](https://www.marathonguide.com/results/browse.cfm?MIDD=9241231029&Gen=B&Begin=46&End=145&Max=119)*
 
 - November 5: [City of Oaks Marathon](https://cityofoaksmarathon.com) :running_man: - [3:50:10](https://www.marathonguide.com/results/browse.cfm?MIDD=2740231105&Gen=B&Begin=159&End=258&Max=669)*
 
@@ -75,8 +77,6 @@ redirect_from:
 
 ## 2024  
 
-- March 23: [Blackbeard's Revenge 100 mile](https://runsignup.com/Race/NC/Corolla/BlackbeardsRevenge100) 🏃‍♂️ - [xx:xx:xx](#)
-
 - May 4: [White Lake Half Ironman](https://www.whitelakehalf.com) :swimming_man: :bicyclist: :running_man: -
 
 - July 16: [Gran Fondo Asheville](#) 🚴 - 
@@ -87,7 +87,7 @@ redirect_from:
 
 - October 13: [Chicago Marathon](https://www.chicagomarathon.com) 🏃‍♂️ - [xx:xx:xx](https://www.chicagomarathon.com/runners/race-results/)
 
-- October 21: [Ironman 70.3 NC](#) :swimming_man: :bicyclist: :running_man: -
+- November 4: [New York City Marathon]() 🏃 - [xx:xx:xx]()
 
 (*) indicates training runs/events 
 <!-- One 70.3, one 13.1, one 140.6, and one 26.2 every year -->

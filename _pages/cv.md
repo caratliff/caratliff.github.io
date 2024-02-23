@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Here](http://rmratliffbrown.github.io/files/rashaad_ratliffbrown_resume.pdf)
+[Download Here](http://rmratliffbrown.github.io/files/rmrb-resume.pdf)
 
 Education
 ======

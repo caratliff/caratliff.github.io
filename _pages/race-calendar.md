@@ -77,6 +77,8 @@ redirect_from:
 
 ## 2024  
 
+- Feb 24: [Northeast Park Duathlon - Relay](https://www.trisignup.com/Race/NC/Gibsonville/NEParkDuathlon) 🏃‍♂️ - [49:16.01](https://www.trisignup.com/Race/Results/26521/IndividualResult/sKDB?resultSetId=438954#U52110079)
+
 - May 4: [White Lake Half Ironman](https://www.whitelakehalf.com) :swimming_man: :bicyclist: :running_man: -
 
 - July 16: [Gran Fondo Asheville](#) 🚴 - 

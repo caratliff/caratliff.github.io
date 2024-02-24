@@ -8,11 +8,11 @@ author_profile: true
 
 ## Capstone
 * Arria Boost: Sports Analytics Data Storytelling ([report](https://github.com/rmratliffbrown/rmratliffbrown.github.io/blob/06cf0045e0f8cf20318625bee3daecfe289750d0/files/boost_report.pdf))
- * Engineered a probabilistic machine learning model for NCAA Division I soccer rankings, surpassing professional soccer baseline predictions by 5%.
- * Validated model adaptability and enhancement across seasons through continuous learning.
- * Created a dynamic, user-interactive dashboard for real-time analytics, enhancing decision-making with comprehensive team performance insights.
- * Achieved 83.3% accuracy in men’s team field predictions by modeling match draws and tournament projections, outperforming FIFA rankings in predictive accuracy.
- * Feature Engineering, Statistical Machine Learning Modeling, Data Visualization and Pipeline Automation. 
+  * Engineered a probabilistic machine learning model for NCAA Division I soccer rankings, surpassing professional soccer baseline predictions by 5%.
+  * Validated model adaptability and enhancement across seasons through continuous learning.
+  * Created a dynamic, user-interactive dashboard for real-time analytics, enhancing decision-making with comprehensive team performance insights.
+  * Achieved 83.3% accuracy in men’s team field predictions by modeling match draws and tournament projections, outperforming FIFA rankings in predictive accuracy.
+  * Feature Engineering, Statistical Machine Learning Modeling, Data Visualization and Pipeline Automation. 
 
 ## Statistical Modeling
 * StockX Sneaker Analysis ([github](https://github.com/rmratliffbrown/stockx-sneaker-stats) // [report](https://github.com/rmratliffbrown/stockx-sneaker-stats/blob/main/final-report.pdf))

@@ -37,7 +37,7 @@ author_profile: true
 
 ## Unifying Data Science/Causal Inference
 * The Legacy of the Taliban on Female Education in Pakistan ([github](https://github.com/rmratliffbrown/uds-2022-ids-701-team-3) // [research paper](https://github.com/rmratliffbrown/uds-2022-ids-701-team-3/blob/main/40-docs/IDS-701_Final_Project_Report.pdf) // [presentation](https://youtu.be/eLjWIdr0psk))
- * Investigated Taliban’s impact on female education through causal inference, revealing complex effects on school enrollment rates.  
+  * Investigated Taliban’s impact on female education through causal inference, revealing complex effects on school enrollment rates.  
 
 ## Machine Learning
 * Model-Based Approach to Music Genre Assignment ([github](https://github.com/rmratliffbrown/ml-genre-assignment) // [research paper](https://github.com/rmratliffbrown/ml-genre-assignment/blob/main/30_docs/final-report.pdf) // [presentation](https://youtu.be/6-7XFk4KC9M)) 

@@ -12,7 +12,7 @@ author_profile: true
  * Validated model adaptability and enhancement across seasons through continuous learning.
  * Created a dynamic, user-interactive dashboard for real-time analytics, enhancing decision-making with comprehensive team performance insights.
  * Achieved 83.3% accuracy in men’s team field predictions by modeling match draws and tournament projections, outperforming FIFA rankings in predictive accuracy.
-  * Feature Engineering, Statistical Machine Learning Modeling, Data Visualization and Pipeline Automation. 
+ * Feature Engineering, Statistical Machine Learning Modeling, Data Visualization and Pipeline Automation. 
 
 ## Statistical Modeling
 * StockX Sneaker Analysis ([github](https://github.com/rmratliffbrown/stockx-sneaker-stats) // [report](https://github.com/rmratliffbrown/stockx-sneaker-stats/blob/main/final-report.pdf))

@@ -77,15 +77,7 @@ redirect_from:
 
 ## 2024  
 
-- Feb 24: [Northeast Park Duathlon - Relay](https://www.trisignup.com/Race/NC/Gibsonville/NEParkDuathlon) 🏃‍♂️ - [49:16.01](https://www.trisignup.com/Race/Results/26521/IndividualResult/sKDB?resultSetId=438954#U52110079)
-
-- May 4: [White Lake Half Ironman](https://www.whitelakehalf.com) :swimming_man: :bicyclist: :running_man: -
-
-- July 16: [Gran Fondo Asheville](#) 🚴 - 
-
-- August 6: [Gran Fondo Boone](#) 🚴 -
-
-- September 17: [Gran Fondo Maryland](#) 🚴 -
+- Feb 24: [Northeast Park Duathlon - Relay](https://www.trisignup.com/Race/NC/Gibsonville/NEParkDuathlon) 🏃‍♂️ - [49:16.01](https://www.trisignup.com/Race/Results/26521/IndividualResult/sKDB?resultSetId=438954#U52110079)(COURSE RECORD!)
 
 - October 13: [Chicago Marathon](https://www.chicagomarathon.com) 🏃‍♂️ - [xx:xx:xx](https://www.chicagomarathon.com/runners/race-results/)
 

@@ -36,11 +36,11 @@ author_profile: true
 * Product Recommendation Engine
 
 ## Unifying Data Science/Causal Inference
-* The Legacy of the Taliban on Female Education in Pakistan ([report](https://github.com/caratliff/Impact-of-Taliban-on-Female-Education/blob/29207a3302023d0cef9228e36106e7ee5742a3aa/40-docs/701-final-report.pdf))
+* The Legacy of the Taliban on Female Education in Pakistan ([Report](https://github.com/caratliff/Impact-of-Taliban-on-Female-Education/blob/29207a3302023d0cef9228e36106e7ee5742a3aa/40-docs/701-final-report.pdf))
   * Investigated Taliban’s impact on female education through causal inference, revealing complex effects on school enrollment rates.  
 
 ## Machine Learning
-* Model-Based Approach to Music Genre Assignment
+* Model-Based Approach to Music Genre Assignment ([Report](https://github.com/caratliff/ml-genre-assignment/blob/eab46e3da7036a43c03bd4c8f01fd372309c5079/30_docs/ML-final-report.pdf)) // ([Presentation](https://github.com/caratliff/ml-genre-assignment/blob/eab46e3da7036a43c03bd4c8f01fd372309c5079/30_docs/presentation.pdf))
   * Developed machine learning models for music genre classification using Spotify data, improving genre assignment accuracy.
 
 ## Mobile Application Development

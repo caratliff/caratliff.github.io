@@ -40,7 +40,7 @@ author_profile: true
   * Investigated Taliban’s impact on female education through causal inference, revealing complex effects on school enrollment rates.  
 
 ## Machine Learning
-* Model-Based Approach to Music Genre Assignment ([Report](https://github.com/caratliff/ml-genre-assignment/blob/eab46e3da7036a43c03bd4c8f01fd372309c5079/30_docs/ML-final-report.pdf)) // ([Presentation](https://github.com/caratliff/ml-genre-assignment/blob/eab46e3da7036a43c03bd4c8f01fd372309c5079/30_docs/presentation.pdf))
+* Model-Based Approach to Music Genre Assignment ([Report](https://github.com/caratliff/ml-genre-assignment/blob/eab46e3da7036a43c03bd4c8f01fd372309c5079/30_docs/ML-final-report.pdf) // [Presentation](https://github.com/caratliff/ml-genre-assignment/blob/eab46e3da7036a43c03bd4c8f01fd372309c5079/30_docs/presentation.pdf))
   * Developed machine learning models for music genre classification using Spotify data, improving genre assignment accuracy.
 
 ## Mobile Application Development

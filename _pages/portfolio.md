@@ -36,7 +36,7 @@ author_profile: true
 * Product Recommendation Engine
 
 ## Unifying Data Science/Causal Inference
-* The Legacy of the Taliban on Female Education in Pakistan
+* The Legacy of the Taliban on Female Education in Pakistan ([report](https://github.com/caratliff/Impact-of-Taliban-on-Female-Education/blob/29207a3302023d0cef9228e36106e7ee5742a3aa/40-docs/701-final-report.pdf))
   * Investigated Taliban’s impact on female education through causal inference, revealing complex effects on school enrollment rates.  
 
 ## Machine Learning

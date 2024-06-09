@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Capstone
-* Arria Boost: Sports Analytics Data Storytelling
+* Arria Boost: Sports Analytics Data Storytelling ([Report](https://github.com/caratliff/caratliff.github.io/blob/fc85bc2e2ff14e3e9d81bf228a170aaefb8ee2fd/files/boost_report.pdf))
   * Engineered a probabilistic machine learning model for NCAA Division I soccer rankings, surpassing professional soccer baseline predictions by 5%.
   * Validated model adaptability and enhancement across seasons through continuous learning.
   * Created a dynamic, user-interactive dashboard for real-time analytics, enhancing decision-making with comprehensive team performance insights.

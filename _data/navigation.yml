@@ -15,11 +15,11 @@ main:
   - title: "CV"
     url: /cv/
         
-  - title: "Blog"
-    url: /year-archive/
+  #- title: "Blog"
+    #url: /year-archive/
     
-  - title: "Race Calendar"
-    url: /race-calendar/
+  #- title: "Race Calendar"
+    #url: /race-calendar/
 
     
   #- title: "Guide"

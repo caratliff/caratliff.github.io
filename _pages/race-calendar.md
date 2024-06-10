@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Race Calendar"
+permalink: /race-calendar/
+---
+
 
 ## 2021 
 - August 14: [Bull Moon 5K](https://bullmoon.itsyourrace.com/event.aspx?id=6050) 🏃 - [24:08](https://www.itsyourrace.com/Results.aspx?id=6050&y=2021&eid=105400&srch=Rashaad&g=A&amin=0&amax=199)

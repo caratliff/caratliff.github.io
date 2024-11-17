@@ -78,6 +78,10 @@ permalink: /race-calendar/
 
 ## 2025
 
+- March 16: Shamrock Half Marathon 🏃 - xx:xx:xx
+
+- Hyrox Miami (Duo): April 19 🏃 🏋️‍♂️ - xx:xx:xx
+
 - November 3: NYC Marathon 🏃 - xx:xx:xx
 
 

@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Interdisciplinary Data Science, Duke University, 2023
-* B.S. in Computer Science, University of North Carolina Charlotte, 2020
+* M.S. in Interdisciplinary Data Science, Duke University
+* B.S. in Computer Science, University of North Carolina Charlotte, Minor in Applied Mathematics
 
 
 {% comment %} 

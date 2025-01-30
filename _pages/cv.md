@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * M.S. in Interdisciplinary Data Science, Duke University
-* B.S. in Computer Science, University of North Carolina Charlotte, Minor in Applied Mathematics
+* B.S. in Computer Science, University of North Carolina Charlotte, Minor in Applied Mathematics   
 
 
 {% comment %} 

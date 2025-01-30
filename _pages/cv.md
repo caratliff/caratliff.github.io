@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Here](#)
+{% [Download Here](#) %}
 
 Education
 ======

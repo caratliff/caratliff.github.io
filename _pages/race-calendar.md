@@ -74,16 +74,17 @@ permalink: /race-calendar/
 
 - Feb 24: Northeast Park Duathlon - Relay 🏃‍♂️ - 49:16.01 - COURSE RECORD!
 
-- October 13: Chicago Marathon 🏃‍♂️ - 3:27:13
+- October 13: Chicago Marathon 🏃‍♂️ - 3:27:13 (⭐)
 
 ## 2025
 
 - March 16: Shamrock Half Marathon 🏃 - 01:31:43
 
-- Hyrox Miami (Duo): April 19 🏃 🏋️‍♂️ - xx:xx:xx
+- May 17: New River Half Marathon 🏃‍♂️ - xx:xx:xx
 
-- November 3: NYC Marathon 🏃 - xx:xx:xx
+- September 21: Berlin Marathon 🏃‍♂️ - xx:xx:xx (⭐⭐)
 
+- November 3: NYC Marathon 🏃 - xx:xx:xx (⭐⭐⭐)
 
 
 (*) indicates training runs/events 

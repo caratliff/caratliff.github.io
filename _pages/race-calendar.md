@@ -88,6 +88,7 @@ permalink: /race-calendar/
 
 - November 3: NYC Marathon 🏃 - xx:xx:xx (⭐⭐⭐)
 
+- December 6: Race 13.1 Durham 🏃 - xx:xx:xx 
 
 (*) indicates training runs/events 
 <!-- One 70.3, one 13.1, one 140.6, and one 26.2 every year -->

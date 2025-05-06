@@ -78,7 +78,7 @@ permalink: /race-calendar/
 
 ## 2025
 
-- March 16: Shamrock Half Marathon 🏃 - 01:31:43
+- March 16: Shamrock Half Marathon 🏃 - 01:31:43 
 
 - May 17: Five Points 5K 🏃‍♂️ - xx:xx:xx
 

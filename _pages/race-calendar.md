@@ -80,7 +80,7 @@ permalink: /race-calendar/
 
 - March 16: Shamrock Half Marathon 🏃 - 01:31:43 
 
-- May 17: Five Points 5K 🏃‍♂️ - xx:xx:xx
+- May 17: Five Points 5K 🏃‍♂️ - 19:28
 
 - June 7: Run the Quay 10K 🏃‍♂️ - xx:xx:xx
 

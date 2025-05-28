@@ -84,7 +84,7 @@ permalink: /race-calendar/
 
 - June 7: Run the Quay 10K 🏃‍♂️ - xx:xx:xx
 
-- August: searching for a half marathon to stick here
+- August: Virginia Beach 10 Miler 🏃‍♂️ - xx:xx:xx
 
 - September 21: Berlin Marathon 🏃‍♂️ - xx:xx:xx (⭐⭐)
 

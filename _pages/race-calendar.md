@@ -82,7 +82,7 @@ permalink: /race-calendar/
 
 - May 17: Five Points 5K 🏃‍♂️ - 19:28
 
-- June 7: Run the Quay 10K 🏃‍♂️ - xx:xx:xx
+- June 7: Run the Quay 10K 🏃‍♂️ - 41:02 
 
 - August 31: Virginia Beach 10 Miler 🏃‍♂️ - xx:xx:xx
 

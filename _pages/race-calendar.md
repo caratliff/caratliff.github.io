@@ -84,13 +84,15 @@ permalink: /race-calendar/
 
 - June 7: Run the Quay 10K 🏃‍♂️ - 41:02 
 
-- August 31: Virginia Beach 10 Miler 🏃‍♂️ - xx:xx:xx
+- September 21: Berlin Marathon 🏃‍♂️ (⭐⭐)
 
-- September 21: Berlin Marathon 🏃‍♂️ - xx:xx:xx (⭐⭐)
+- November 3: NYC Marathon 🏃 (⭐⭐⭐)
 
-- November 3: NYC Marathon 🏃 - xx:xx:xx (⭐⭐⭐)
+- December 6: Race 13.1 Durham 🏃 - xx:xx:xx
 
-- December 6: Race 13.1 Durham 🏃 - xx:xx:xx 
+## 2025
+
+- March 28: Umstead 100 🏃‍♂️ - xx:xx:xx
 
 (*) indicates training runs/events 
 <!-- One 70.3, one 13.1, one 140.6, and one 26.2 every year -->
